@@ -5,7 +5,6 @@ I'm currently working on school, can't really do anything coding rn <br>
 Wanting to learn more CS (c#), maybe more lua, or css (c++) after schools over
 
 ### if you contact me:
-<br>
 **dont** share personal info with me. i don't want to know you like pineapples on pizza.
 
 ### promotion <br>
