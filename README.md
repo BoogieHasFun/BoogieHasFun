@@ -11,7 +11,7 @@ Wanting to learn more CS (c#), maybe more lua, or css (c++) after schools over
 check out this guy he's pretty cool: [ItsNoot3rch](https://youtube.com/@ItsNoot3rch)
 
 ### websites
-https://boogiehasfun.netlify.app
+https://boogiehasfun.netlify.app <--- most up-to-date and newest
 <br>
 https://github-boogiehasfun.epizy.com/ <br>
 
