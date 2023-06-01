@@ -1,8 +1,8 @@
 ### Hi there 👋
 i'm BoogieHasFun, and I like tech, code some, tinkering with code
 
-i'm currently working on school, can't really do anything coding rn <br>
-wanting to learn more CS (c#), maybe more lua, or css (c++) after schools over
+school is over, but i am just lazy lmao <br>
+also summer break is only 2 months for some reason so i have little time.
 
 actually, im starting to learn cpp. im using this video: https://www.youtube.com/watch?v=-TkoO8Z07hI. make sure to subscribe to him, he's awesome :D
 
