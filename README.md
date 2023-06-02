@@ -13,7 +13,7 @@ actually, im starting to learn cpp. im using this video: https://www.youtube.com
 check out this guy he's pretty cool: [ItsNoot3rch](https://youtube.com/@ItsNoot3rch)
 
 ### websites
-https://boogiehasfun.netlify.app <--- most up-to-date and newest
+https://boogiehasfun.netlify.app <--- most up-to-date
 <br>
 https://github-boogiehasfun.epizy.com/ <br>
 
