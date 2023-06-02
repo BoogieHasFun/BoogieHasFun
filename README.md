@@ -1,5 +1,5 @@
 ### Hi there 👋
-i'm BoogieHasFun, and I like tech, code some, tinkering with code
+i'm BoogieHasFun, and i like tech, i code some, and i like tinkering with code (sometimes to the point where people get mad)
 
 school is over, but i am just lazy lmao <br>
 also summer break is only 2 months for some reason so i have little time.
