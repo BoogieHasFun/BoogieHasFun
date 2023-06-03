@@ -9,7 +9,7 @@ actually, im starting to learn cpp. im using this video: https://www.youtube.com
 ### if you contact me:
 **dont** share personal info with me. i don't want to know you like pineapples on pizza.
 
-### promotion <br>
+### good people <br>
 check out this guy he's pretty cool: [ItsNoot3rch](https://youtube.com/@ItsNoot3rch)
 
 ### websites
