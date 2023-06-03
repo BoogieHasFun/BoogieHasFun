@@ -27,7 +27,7 @@ https://boogiehasfun.netlify.app <--- most up-to-date
 <br>
 https://github-boogiehasfun.epizy.com/ <br>
 
-<b> alternate websites if the main ones aren't working </b> <br>
+<b> alternate website(s) if the main ones aren't working </b> <br>
 https://github-boogiehasfun2.epizy.com/
 
 
