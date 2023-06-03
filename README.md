@@ -4,7 +4,7 @@ i'm BoogieHasFun, and i like tech, i code some, and i like tinkering with code (
 school is over, but i am just lazy lmao <br>
 also summer break is only 2 months for some reason so i have little time.
 
-actually, im starting to learn cpp. im using this video: https://www.youtube.com/watch?v=-TkoO8Z07hI. make sure to subscribe to him, he's awesome :D
+actually, im starting to learn cpp. im using [this video](https://www.youtube.com/watch?v=-TkoO8Z07hI). make sure to subscribe to him, he's awesome :D
 
 ### Currently Learning:
 cpp (C++/CPlusPlus) 
