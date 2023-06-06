@@ -22,12 +22,12 @@ cpp (C++/CPlusPlus)
 ## good people <br>
 check out this guy he's pretty cool: [ItsNoot3rch](https://youtube.com/@ItsNoot3rch)
 
-## websites
-https://boogiehasfun.netlify.app <--- most up-to-date
+## website(s)
+https://boogiehasfun.netlify.app 
 <br>
-https://github-boogiehasfun.epizy.com/ <br>
 
-<b> alternate website(s) if the main ones aren't working </b> <br>
-https://github-boogiehasfun2.epizy.com/
+<b> alternate website(s) if the main one isn't working </b> <br>
+https://github-boogiehasfun2.epizy.com/ <br>
+https://github-boogiehasfun.epizy.com/ <br>
 
 
