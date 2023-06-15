@@ -13,7 +13,9 @@ cpp (C++/CPlusPlus)
 <br> whatever school teaches me <br>
 ![ISO_C_Logo svg_1_3](https://github.com/BoogieHasFun/BoogieHasFun/assets/76754631/c182103a-5e95-4490-997e-e273fc8a17af) ![1024px-C_Sharp_wordmark svg_3_22x22](https://github.com/BoogieHasFun/BoogieHasFun/assets/76754631/736dc097-bafc-4a99-9a2f-0b15c819289c)
 
-
+## accounts 
+[youtube](https://youtube.com/@boogiehasfun)
+<br>[twitch](https://twitch.tv/boogiehasfun)
 
 
 ## if you contact me
