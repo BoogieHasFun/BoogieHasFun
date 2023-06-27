@@ -10,7 +10,7 @@ actually, im starting to learn cpp. im using [this video](https://www.youtube.co
 cpp (C++/CPlusPlus) 
 <br> cs (C#/CSharp)
 <br> how to program better
-<br> bash w/ ubuntu running on a chroot on a chromebook ([crouton](https://github.com/dnschneid/crouton))
+<br> bash/linux w/ ubuntu running on a chroot on a chromebook ([crouton](https://github.com/dnschneid/crouton))
 <br> whatever school teaches me <br>
 ![ISO_C_Logo svg_1_3](https://github.com/BoogieHasFun/BoogieHasFun/assets/76754631/c182103a-5e95-4490-997e-e273fc8a17af) ![1024px-C_Sharp_wordmark svg_3_22x22](https://github.com/BoogieHasFun/BoogieHasFun/assets/76754631/736dc097-bafc-4a99-9a2f-0b15c819289c)
 
