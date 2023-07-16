@@ -6,7 +6,9 @@ also summer break is only 2 months for some reason so i have little time.
 
 actually, im starting to learn cpp. im using [this video](https://www.youtube.com/watch?v=-TkoO8Z07hI). make sure to subscribe to him, he's awesome :D
 
-### Currently Learning:
+### currently learning:
+_procrastinating go brrr_ 
+
 cpp (C++/CPlusPlus) 
 <br> cs (C#/CSharp)
 <br> how to program better
