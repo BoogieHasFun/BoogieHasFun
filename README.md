@@ -1,7 +1,7 @@
 ## Hi there :D
 i'm BoogieHasFun, and i like tech, i code some, and i like tinkering with code (sometimes to the point where people get mad)
 
-school is coming back :( <br>
+school is almost starting back soon, which means i am not going to be doing anything :D 
 
 actually, im starting to learn cpp. im using [this video](https://www.youtube.com/watch?v=-TkoO8Z07hI). make sure to subscribe to him, he's awesome :D
 
