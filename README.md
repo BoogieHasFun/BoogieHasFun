@@ -3,7 +3,7 @@ i'm BoogieHasFun, and i like tech, i code some, and i like tinkering with code (
 
 school is almost starting back soon, which means i am not going to be doing anything :D 
 
-~~actually, im starting to learn cpp. im using [this video](https://www.youtube.com/watch?v=-TkoO8Z07hI). make sure to subscribe to him, he's awesome :D~~
+~~actually, im starting to learn cpp. im using [this video](https://www.youtube.com/watch?v=-TkoO8Z07hI).if you were wondering~~
 
 ### currently learning:
 _procrastinating go brrr_ 
