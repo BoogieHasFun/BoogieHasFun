@@ -21,8 +21,8 @@ cpp (C++/CPlusPlus)
 ## if you contact me
 **dont** share personal info with me. i don't want to know you like pineapples on pizza.
 
-## good people <br>
-check out this guy he's pretty cool: [ItsNoot3rch](https://youtube.com/@ItsNoot3rch)
+## good/underrated people <br>
+[ItsNoot3rch](https://youtube.com/@ItsNoot3rch)
 
 ## website(s)
 https://boogiehasfun.netlify.app 
