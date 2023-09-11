@@ -20,8 +20,9 @@ _**_ _it'll take 100 years before i get this right_
 <br>[twitch](https://twitch.tv/boogiehasfun)
 
 
-## if you contact me
-**dont** share personal info with me. i don't want to know you like pineapples on pizza.
+## contacting me
+the email you can contact me with is support@boogie.dedyn.io <br>
+**dont** share personal info with me. i don't want to know you like pineapples on pizza, or how you like feet (no pics for you!). you little weirdo
 
 ## good/underrated people <br>
 [ItsNoot3rch](https://youtube.com/@ItsNoot3rch)
