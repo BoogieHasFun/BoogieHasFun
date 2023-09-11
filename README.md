@@ -28,6 +28,7 @@ _**_ _it'll take 100 years before i get this right_
 
 ## website(s)
 https://boogiehasfun.netlify.app 
+https://boogiehasfun.github.io <--- currently working on it, hoping for it to be my best website :D
 <br>
 
 <b> alternate website(s) if the main one isn't working </b> <br>
