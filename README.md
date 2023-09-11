@@ -1,7 +1,7 @@
 ## Hi there :D
 i'm BoogieHasFun, and i like tech, i code some, and i like tinkering with code (sometimes to the point where people get mad)
 school, yay, so cool! :D 
-~~actually, im starting to learn cpp. im using [this video](https://www.youtube.com/watch?v=-TkoO8Z07hI).if you were wondering~~
+
 
 ### currently learning:
 _procrastinating go brrr_ 
