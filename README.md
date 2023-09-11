@@ -1,5 +1,5 @@
 ## Hi there :D
-i'm BoogieHasFun, and i like tech, i code some, and i like tinkering with code (sometimes to the point where people get mad) <br>
+i'm BoogieHasFun, and i like tech, i code some, and i like tinkering with code (sometimes to the point where people get mad)
 <br> school, yay, so cool! :D 
 
 
