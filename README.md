@@ -27,7 +27,7 @@ _**_ _it'll take 100 years before i get this right_
 [ItsNoot3rch](https://youtube.com/@ItsNoot3rch)
 
 ## website(s)
-https://boogiehasfun.netlify.app 
+https://boogiehasfun.netlify.app <br>
 https://boogiehasfun.github.io <--- currently working on it, hoping for it to be my best website :D
 <br>
 
