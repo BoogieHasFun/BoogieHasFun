@@ -22,7 +22,7 @@ _**_ _it'll take 100 years before i get this right_
 
 ## contacting me
 the email you can contact me with is support@boogie.dedyn.io (sorry about free subdomain, i am poor okay) <br>
-keep in mind i don't want to know you like pineapples on pizza, or how you like feet (no pics for you!). you little weirdo
+don't send me weird stufgf you little weirdo
 
 ## unpaid promotion <br>
 [ItsNoot3rch](https://youtube.com/@ItsNoot3rch)
