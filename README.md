@@ -9,7 +9,7 @@ _procrastinating go brrr_
 cpp (C++/CPlusPlus)*
 <br> cs (C#/CSharp)*
 <br> how to program better**
-<br> bash/linux w/ ubuntu running on a chroot on a chromebook ([crouton](https://github.com/dnschneid/crouton))*
+<br> ~~bash/linux w/ ubuntu running on a chroot on a chromebook ([crouton](https://github.com/dnschneid/crouton))*~~ i just completely converted my chromebook into a linux mint machine, so i can't do this anymore
 <br> whatever school teaches me <br>
 ![ISO_C_Logo svg_1_3](https://github.com/BoogieHasFun/BoogieHasFun/assets/76754631/c182103a-5e95-4490-997e-e273fc8a17af) ![1024px-C_Sharp_wordmark svg_3_22x22](https://github.com/BoogieHasFun/BoogieHasFun/assets/76754631/736dc097-bafc-4a99-9a2f-0b15c819289c) <br>
 _* slowly learning_ <br>
