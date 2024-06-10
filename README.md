@@ -2,7 +2,7 @@
 i am a nerd
 
 
-### very few accounts 
+### very few of my accounts 
 [youtube](https://youtube.com/@boogiehasfun)
 <br>[twitch](https://twitch.tv/boogiehasfun)
 
